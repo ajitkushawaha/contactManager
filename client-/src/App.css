@@ -1,0 +1,14 @@
+.App {
+  background-color: #485461;
+  background-image: linear-gradient(315deg, #1f2935 0%, #161a1f 74%);
+  color: aliceblue;
+}
+
+.App-link {
+  color: #61dafb;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+
